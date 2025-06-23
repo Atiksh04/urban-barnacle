@@ -35,3 +35,4 @@ To run the app locally:
 The app will be available at [http://localhost:5173](http://localhost:5173) (or the port specified in your Vite config).
 
 ---
+Deployed link: https://astonishing-brioche-cbe5a3.netlify.app/

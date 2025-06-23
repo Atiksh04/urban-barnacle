@@ -2,6 +2,10 @@
 
 This project is built using **React** (JavaScript), **Tailwind CSS** for styling, and **Zustand** for state management.
 
+## Overview
+
+The Lookbook App presents a sequence of "looks" (collections of images and videos) in a story-like format, similar to social media stories. Users can navigate between looks using swipe gestures or keyboard arrows. Each look can contain multiple media items, annotations, and associated products. The app uses Zustand for managing the current look, media, and product state, and Tailwind CSS for responsive, modern styling.
+
 ## Tech Stack
 
 - **React**: UI library for building interactive user interfaces.
